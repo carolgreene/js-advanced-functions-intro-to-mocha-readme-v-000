@@ -1,6 +1,5 @@
 function theTruth() {
-  debugger
-return true
+  return true
 }
 
 function sayHey() {
@@ -12,6 +11,7 @@ function sayHeyFriend(name) {
 }
 
 function favoriteIceCream(flavor) {
+  debugger
   return `I love ${flavor}`
 }
 
